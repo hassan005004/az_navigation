@@ -1,0 +1,16 @@
+name: az_navigation_example
+description: Example app for az navigation package
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  az_navigation:
+    path: ../
+
+flutter:
+  uses-material-design: true
