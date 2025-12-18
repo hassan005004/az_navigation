@@ -9,7 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  my_flutter_package:
+  az_navigation:
     path: ../
 
 flutter:

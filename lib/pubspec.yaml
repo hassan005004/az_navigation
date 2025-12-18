@@ -1,0 +1,22 @@
+name: az_navigation
+description: Simple navigation helper with animated page transitions for Flutter.
+version: 0.0.1
+
+homepage: https://github.com/yourusername/az_navigation
+repository: https://github.com/yourusername/az_navigation
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
