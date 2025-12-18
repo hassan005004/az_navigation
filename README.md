@@ -1,4 +1,4 @@
-# Az Navigation
+# Az Navigation : Fluttery
 
 ## Step 1: Setup MaterialApp
 Set the `navigatorKey` in your `MaterialApp` so `AzNavigation` can work without `BuildContext`:
